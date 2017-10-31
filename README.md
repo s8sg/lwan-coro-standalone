@@ -5,7 +5,7 @@ Coro LIB Origin : https://github.com/lpereira/lwan/tree/master/src/lib
 
 #### Build: 
 ```bash
-gcc lwan-coro-example.c lwan-array.c lwan-coro.c -o example
+gcc lwan-coro-example.c lwan-coro.c -o example
 ```
 #### Run:
 ```bash
